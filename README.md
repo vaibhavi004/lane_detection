@@ -54,6 +54,7 @@ This project focuses on real-time lane detection using OpenCV to assist with aut
 | Line Extension        | Geometry Calculations    | Ensure full lane display in frame        |
 
 ---
+<img width="1046" height="658" alt="Screenshot 2025-07-17 182501" src="https://github.com/user-attachments/assets/1845065a-cd0a-48a8-ad51-0609d9d6cff1" />
 
 ## ✅ Performance
 
